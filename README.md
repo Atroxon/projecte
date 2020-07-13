@@ -1,2 +1,1 @@
-# projecte
-sti cazzi
+# PROJECTE README #
