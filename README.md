@@ -1,0 +1,2 @@
+# projecte
+sti cazzi
